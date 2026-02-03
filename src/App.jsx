@@ -88,7 +88,8 @@ function App() {
     <div className="app">
       <div className="chatbot">
         <header className="chatbot-header">
-          <h1>My React Chatbot</h1>
+          <h1>
+            Vicki Chatbot</h1>
         </header>
 
         <div className="messages-container">
